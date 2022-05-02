@@ -14,5 +14,9 @@ class MainActivity : AppCompatActivity() {
 git add --all
 git commit -m "Add a space"
 
+git push -u origin develop
 changes
+
+
+git merge master
  */
