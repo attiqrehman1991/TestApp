@@ -9,3 +9,9 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 }
+/*
+// git checkout -b develop
+git add --all
+
+
+ */
