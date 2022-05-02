@@ -12,3 +12,14 @@ class MainActivity : AppCompatActivity() {
         // Log.d
     }
 }
+/*
+// git checkout -b develop
+git add --all
+git commit -m "Add a space"
+
+git push -u origin develop
+changes
+
+
+git merge master
+ */
